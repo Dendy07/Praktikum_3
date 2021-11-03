@@ -1,5 +1,7 @@
 # Praktikum_3
-## screenshot hasil program
+## Praktikum3
+
+#### Screenshot hasil luas keliling lingkaran
 program luas dan keliling lingkaran `<p>`
 ini tampilannya
 ![Gambar 1](screenshots/screenshot.png)
